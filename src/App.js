@@ -1,25 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState } from "react";
+import SearchBar from './components/searchBar/SearchBar';
+import RecipeList from './components/recipeList/RecipeList';
+import './index.css';
 
-function App() {
+const App = () => {
+  const [userSearches, setUserSearches] = useState(null);
+  const updateSearches = (value) => {
+    setUserSearches(value);
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <SearchBar updateSearches={updateSearches} />
+      <RecipeList userSearches={userSearches} />
     </div>
-  );
+  )
 }
 
 export default App;

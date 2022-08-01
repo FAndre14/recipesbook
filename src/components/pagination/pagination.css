@@ -1,0 +1,33 @@
+.pageBrowser li {
+    list-style-type: none;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    transition: var(--transition);
+    padding: 1rem;
+    cursor: pointer;
+}
+.pageBrowser button {
+    background-color: transparent;
+    font-size: 1.4rem;
+}
+
+.active {
+    background-color: rgb(187, 156, 187);
+
+}
+.pageBrowser li:hover {
+    background-color: rgb(172, 146, 172);
+}
+
+.pagination {
+    border: 2px solid var(--color-borders);
+    border-radius: 10px;
+    display: flex;
+    gap: .5rem;
+    margin: 1rem 0;
+    background-color: white;
+}
+
+.page-button {
+    cursor: pointer;
+}

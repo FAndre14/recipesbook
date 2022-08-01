@@ -1,0 +1,16 @@
+.container__recipe {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: .8rem;
+    text-align: center;
+}
+
+.container__recipe h1 {
+    margin-bottom: .5rem;
+}
+
+.container__recipe h4 {
+    margin-bottom: 1rem;
+}

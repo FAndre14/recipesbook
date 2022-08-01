@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Tiramisu",
+        "ingredients":"200 ml cafea tare, 40 ml coniac, 4 ouă, 50 g zahăr, 500 g mascarpone, 150 g pişcoturi, 2-3 linguri cacao",
+        "description": "Se face cafeaua şi se lasă la răcit, apoi se pregătesc celelalte ingrediente. Între timp, se separă gălbenuşurile de albuşuri în două vase și se pune zahărul peste gălbenuşuri. Cu ajutorul unui mixer, reglat la o viteză medie, se amestecă gălbenuşurile cu zahărul. Se mixează gălbenuşurile cu zahărul circa 2 minute, până ce zahărul se dizolvă complet. Mascarpone se freacă până se înmoaie puţin şi se pune peste crema de gălbenuşuri. Cu ajutorul mixerului, se amestecă brânza mascarpone cu crema de gălbenuşuri. Amestecul se mixează 1 minut, până ce se obţine o cremă omogenă, cu aspect lucios. Se mixează albuşurile circa 2 minute, până ce se obţine o spumă care se desprinde de vas. Peste crema de mascarpone şi gălbenuşuri se adaugă albuşurile bătute spumă şi se amestecă. Pişcoturile se înmoaie în siropul de cafea cu coniac şi se aşază într-o tavă, ca în imagine. Peste pişcoturi, se pune 1/2 din crema de mascarpone. Se adaugă încă un strat de pişcoturi. Se întinde restul de cremă, iar deasupra se pre­sară cacao. Se pune la frigider cel puţin 3 ore.",
+        "picture": "Tiramisu"
+    },
+    {
+        "id": 2,
+        "name": "Ecler",
+        "ingredients":"Coji Ecler: 250 gr de faina, 100 ml ulei, 300 ml apa, 5 oua, 3 plicuri de zahar vanilat, un praf de sare; Pentru crema:, 2 oua, 100 gr zahar, 1 plic zahar vanilat, 2 linguri de faina cu varf, 500ml lapte, esenta de vanilie, Pentru glazura, 50 gr unt, 100 gr ciocolata cu lapte, 1 lingura apa, 1 lingura ulei, 2 linguri de cacao.",
+        "description": "Cojile pentru eclere: Intr-o craticioara puneti apa la fiert impreuna cu uleiul si sarea. Amestecati faina cu zaharul vanilat. Cand apa fierbe luati craticioara de pe foc si adaugati faina. Amestecati energic pana ce compozitia se desprinde cu usurinta de pe craticioara. Adaugati ouale pe rand, unul cate unul amestecand cu un mixer dupa fiecare, pana se incorporeaza. Cu lingura puneti compozitia intr-o punga sau posh si dati forma eclerelor intr-o tava tapetata cu hartie. Adaugati suficienta compozitie ca acestea sa nu va iasa foarte joase. Coaceti cojile la 180 grade timp de 25 de minute. Crema de vanilie: Puneti ouale intr-o craticioara si le bateti bine. Adaugati zaharul si zaharul vanilat Turnati apoi faina si amestecati pana la omogenizare Infierbantati laptele si il adaugati treptat peste compozitia preparata inainte. Puneti oala pe foc, adaugati esenta de vanilie si lasati sa se ingroase compozitia amestecand tot timpul pentru a nu se lipi. Cand compozitia s-a ingrosat suficient adaugati untul taiat si amestecati pana acesta s-a topit. Glazura: Amestecati toate ingredientele si le puneti la bain Marie pana s-au topit. Puteti pune si direct pe foc insa cu mare grija sa nu se incinga foarte tare. Luati de pe foc atunci cand ciocolata incepe sa se topeasca si amestecati continuu pana ce toate ingredientele s-au topit si incorporat. Daca este nevoie mai puneti pe foc pentru cateva secunde. Daca doriti, deasupra cremei de vanilie puteti pune si frisca.",
+        "picture": "Ecler"
+    },
+    {
+        "id": 3,
+        "name": "Chiftele Marinate",
+        "ingredients":"500 g carne tocată, amestec vită și porc sau pui, curcan, 1 ou, 3 căței de usturoi, 1 ceapă mică, miez de pâine (de la o felie), înmuiat în apă, cimbru uscat, sare, piper, boia dulce, ulei, 500 ml sos de roșii clasic sau marinara.",
+        "description": "Amestecă ingredientele cu carnea tocată. Frământă mixul până la omogenizare, modelează chiftelele și tăvălește-le prin făină. Așază-le într-un recipient pentru cuptor cu puțin ulei și lasă-le în jur de 30 de minute la 180 de grade, adăugând puțină apă peste acestea, ca să nu se ardă uleiul. Când se apropie de rumenire, toarnă peste chiftele un sos de roșii mai gros sau bulion diluat cu apă. Adaugă o foaie de dafin, pătrunjel sau mărar și mai lasă la cuptor chiftelele încă 5 minute.",
+        "picture": "ChifteleMarinate"
+    },
+    {
+        "id": 4,
+        "name": "Cornulete cu unt, smantana si gem",
+        "ingredients":"250 g unt minim 80% grasime, 250 g smantana 25% grasime, 600 g faina, 50 g zahar pudra, 1 plic praf de copt, arome (coaja de lamaie, rom, vanilie), 100 g gem de prune/caise amestecat cu 100 g de nuca macinata.",
+        "description": "Se amesteca toate ingredientele pentru aluat, mai putin smantana, care trebuie sa fie rece si care se adauga la final. Aluatul poate fi pregatit in robotul de bucatarie sau cu mana ori cu o spatula si trebuie lucrat repede. Untul din compozitie trebuie sa fie foarte moale. Aluatul care rezulta este nelipicios si elastic. Se acopera cu o folie si se lasa la rece pentru o ora, doua. Dupa perioada de odihna, aluatul se portioneaza, se intinde o foaie de jumatate de centimetru si se taie in triunghiuri sau patrate. Se pune putina umplutura (gem amestecat cu nuca macinata), se ruleaza si se coc in cuptorul incins la 180 de grade pentru 15-20 de minute. Cresc putin in timpul coptului. Cand sunt gata, se tavalesc prin zahar pudra aromatizat sau se pudreaza din belsug.",
+        "picture": "CornuleteCasa"
+    },
+    {
+        "id": 5,
+        "name": "Piftie de porc",
+        "ingredients":"1 pulpa de porc, 2 picioare de porc, 2 cepe medii, 1 morcov mare, 5 frunze de dafin, boabe de piper, 1 capatana usturoi (sau mai putin, dupa gust), sare (dupa gust).",
+        "description": "Carnea se curata bine, se spala si se taie in bucati de dimensiuni medii, apoi se lasa in apa rece, timp de cateva ore, schimband lichidul de cateva ori. Oala in care ai pus carne si apa cat sa o acopere bine, depasind 3-4 degete, se pune apoi la foc mic, pe aragaz. Se adauga in oala morcovul, ceapa, foile de dafin si piperul boabe. Pentru ca supa sa aiba o culoare aurie, poti pune ceapa cu tot cu coaja. In timpul gatitului, este necesar sa indepartezi periodic spuma formata. Fierbe piftia la foc mic, acoperita cu un capac, aproximativ 7-8 ore. De indata ce s-a format o pelicula la suprafata si carnea a inceput sa se desprinda de oase, ia oala de pe foc. Scoate carnea, elimina oasele si grasimea si tai-o in bucati mici. Pune carnea intr-un bol mare. Zdrobeste usturoiul si pune-l in supa, pune sare dupa gust si lasa lichidul timp de 10 minute deoparte. Strecoara supa folosind doua straturi de tifon (sau o strecuratoare deasa) peste carne. Lasa la racit, apoi da la frigider pentru cateva ore (peste noapte), ca sa se inchege bine. Piftia poate fi ornata cu morcovi si crengute de verdeata.",
+        "picture": "Piftie"
+    },
+    {
+        "id": 6,
+        "name": "Prajitura cu Bulion",
+        "ingredients":"Foi: 15 linguri bulion, 15 linguri ulei, 12 linguri zahar, 1 ou, 500g faina, bicarbonat, putina sare; Crema: 1l lapte, 100g gris, 250g zahar, 2 plicuri zahar vanilat, 1 margarina, 1 portocala rasa, 1 gem acrisor.",
+        "description": "Foi: Se amesteca oul, bulionul, zaharul si uleiul. Incorporam faina cu bicarbonatul si sarea, facandu-se in total 4 foi. Crema: Se fierbe laptele cu grisul si zaharul. Cand e gata, se trage de pe foc si se adauga portocala rasa. Cand se raceste, se amesceta cu margarina. Structura: 1 foaie-crema-gem acrisor, apoi se repeta. Deasupra se pune zahar pudra",
+        "picture": "PrajituraCuBulion"
+    },
+    {
+        "id": 7,
+        "name": "Vant Spaniol",
+        "ingredients": "Blatul 1: 6 oua si cacao; Blatul 2: 10 albusuri, 500g zahar, 1 lingura otet; Crema: 1l lapte, 2 budinci vanilie, 12-14 linguri zahar, 1 margarina",
+        "description": "Crema se fierbe pe aburi si se amesteca cu o margarina. Se imparte in 2, una sa ramana alba, iar cealalta se va adauga cacao. Aranjarea: blatul maro, crema alba, frisca, blatul alb, crema maro, frisca.",
+        "picture": "VantSpaniol"
+    },
+    {
+        "id": 8,
+        "name": "Floare de Mar",
+        "ingredients": "Blat: 6 oua, 6 linguri zahar, 2 linguri faina, 1 praf de copt stins, 2 budinci roz; Crema: 1 budinca vanilie, 250ml lapte, 200g zahar, 1 margarina.",
+        "description": "Blat: Se bat albusurile cu zaharul, se adauga galbenusurile, praful de copt, faina si budincile. Crema: Du[acce s a racit budinca, se adauga laptele si margarina, ce a fost frecata in prealabil. Deasupra blatului roz se pune crema galbena, apoi frisca.",
+        "picture": "FloareDeMar"
+    },
+    {
+        "id": 9,
+        "name": "Chec de cacao",
+        "ingredients":"1/2 pachet margarina, 6 oua, 1 plic praf de copt, 6 cesti zahar, 6 cesti faina, 2 cesti lapte, 4-7 linguri cacao.",
+        "description": "Se pune intr-o cratita laptele, margarina, zaharul, cacao si praful de copt, apoi se da un clocot. Dupa racire, se adauga 6 galbenusuri, apoi faina treptat, dupa care albusurile spuma. Se baga la cuptor, iar dupa scoatere, se adauga glazura.",
+        "picture": "ChecCacao"
+    },
+    {
+        "id": 10,
+        "name": "Caise",
+        "ingredients":" Caise: 3 oua, 1 pahar zahar pudra, 1 pahar ulei, 1 plic praf de copt, 1 plic vanilie, coaja de lamaie, 400g-500g faina; Crema: 150g-200g margarina, 25-50g cacao, 4-5 linguri zahar pudra, 3 parti din scobitura caiselor, 1 esenta rom.",
+        "description": "Caise: Se freaca cele 3 oua cu zahar, praf de copt, vanilie si lamaie. Cand s-a amestecat totul bine, se pune putin cate putin ulei, apoi faina. Se aseaza pe tava in forma de bila, apoi la cuptor. Dupa ce sunt coapte, acestea vor fi scobite. Crema: Se amesteca toate ingredientele aferente cremei, dupa care se mai adauga esenta de rom. Crema este adaugata intre 2 caise, dupa care acestea vor fi colorate cu un colorant alimentar (fiecare parte a caisei), iar la final rulate prin zahar.",
+        "picture": "Caise"
+    },
+    {
+        "id": 11,
+        "name": "Viuca",
+        "ingredients":"Foi: 500g faina, 1 pahar smantana, 2 oua, 1 pahar zahar, 1 praf copt, 1/2 lingura untura. 1/2 lingura margarina, cacao; Crema: 1l lapte, 8 linguri faina, 1 plic vanilie, 1 pachet margarina, zahar pudra, 100g nuca cocos.",
+        "description": "Foi: Se amesteca toate ingredientele si se imparte compozitia pentru a obtine 5 foi. Crema: Margarina se freaca cu zaharul pudra, dupa gust. Restul ingredientelor se amesteca si se pun la foc. Dupa ce se raceste, se adauga nuca de cocos si margarina. La finalul prajiturii, se adauga glazura deasupra si se cerne nuca de cocos.",
+        "picture": "Viuca"
+    }
+]
