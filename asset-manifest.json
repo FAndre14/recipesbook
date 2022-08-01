@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/recipesbook/static/css/main.1b949d6f.css",
+    "main.js": "/recipesbook/static/js/main.2a5cbeb5.js",
+    "static/media/ChecCacao.jpg": "/recipesbook/static/media/ChecCacao.8775b1525203da48059a.jpg",
+    "static/media/CornuleteCasa.jpg": "/recipesbook/static/media/CornuleteCasa.f63a5a55b06acc6e1be4.jpg",
+    "static/media/ChifteleMarinate.jpg": "/recipesbook/static/media/ChifteleMarinate.52548e2c558fbe5bff78.jpg",
+    "static/media/PrajituraCuBulion.jpg": "/recipesbook/static/media/PrajituraCuBulion.a65ba6941884f402e263.jpg",
+    "static/media/VantSpaniol.jpg": "/recipesbook/static/media/VantSpaniol.6cc8e279851e65758ca6.jpg",
+    "static/media/Piftie.jpg": "/recipesbook/static/media/Piftie.19b13f9b3c036f576f07.jpg",
+    "static/media/Caise.jpg": "/recipesbook/static/media/Caise.d5bed5e4604e6c44538a.jpg",
+    "static/media/Ecler.jpg": "/recipesbook/static/media/Ecler.0ad872bde89b1a0cbe91.jpg",
+    "static/media/Tiramisu.jpg": "/recipesbook/static/media/Tiramisu.0e809bd4f33805ede28f.jpg",
+    "static/media/Viuca.jpg": "/recipesbook/static/media/Viuca.c52b110b9cea9b19e40d.jpg",
+    "static/media/FloareDeMar.jpg": "/recipesbook/static/media/FloareDeMar.361c4fa6dfc47df0b2e2.jpg",
+    "index.html": "/recipesbook/index.html",
+    "main.1b949d6f.css.map": "/recipesbook/static/css/main.1b949d6f.css.map",
+    "main.2a5cbeb5.js.map": "/recipesbook/static/js/main.2a5cbeb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b949d6f.css",
+    "static/js/main.2a5cbeb5.js"
+  ]
+}
